@@ -18,8 +18,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afordonez28&show_icons=true&locale=en&layout=compact" alt="afordonez28" /></p>
 
-# 💫 About Me:
-A passionate student Systems from Colombia and I'm trying to learn<br><br>🔭 I am working on learning and improving my knowledge advanced excel, Basic c++, Basic python<br><br>🌱 I’m currently learning Blender modeling farm(pig), intermediate blender<br><br>💬 Ask me about my career afordonez28@ucatolica.edu.co<br><br>🌛 I’m learning Unity in Unity learn Knowledge in Unity interface
+
 
 
 ## 🌐 Socials:
